@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #d4d3f0; /* Blue */
     color: #ffffff;
 }
 
@@ -80,4 +80,8 @@ a {
 
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
+}
+
+.sep{
+    font-size:35px;
 }
